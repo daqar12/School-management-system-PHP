@@ -55,14 +55,6 @@ A modern, robust web application built with **PHP** and **MySQL** to manage educ
 * **Table Whitelisting:** The API handler only interacts with predefined allowed tables.
 
 ---
-Developed with team of class CA222.
-ID:                  Name:
-C1220116             Mohamed Dahir Abdullahi
-C1220130             Anas Liban Ahmed
-C1220085             Abdinasir Ali Farah
-C1220851             Mohamed Dahir Hashi
-C1220097             Isamil Omar Gele
----
 ## 👥 Developed by Team CA222
 
 | Student ID | Full Name |
