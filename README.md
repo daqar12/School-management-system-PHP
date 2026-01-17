@@ -1,8 +1,9 @@
-ID: C1220116
-Name: Mohamed Dahir Abdullahi
-Class: CA222
 
 # 🏫 Professional School Management System
+
+**ID:** C1220116  
+**Name:** Mohamed Dahir Abdullahi  
+**Class:** CA222
 
 A modern, robust web application built with **PHP** and **MySQL** to manage educational institutions. This system features a dynamic dashboard, secure authentication, and a centralized API handler for administrative tasks.
 
